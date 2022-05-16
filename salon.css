@@ -1,0 +1,22 @@
+body{
+    background-color:azure;
+}
+
+
+h1 {
+    color:navy;
+    font-family:monospace;
+    font-weight:400;
+}
+h2{
+color:navy;
+font-variant:small-caps ;
+    font-weight:300;
+    
+}
+button{
+    color:grey;
+    font-family:cursive;
+    padding:10px 50px;
+    font-size:30px;
+}
